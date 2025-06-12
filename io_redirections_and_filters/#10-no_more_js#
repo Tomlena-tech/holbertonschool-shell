@@ -1,0 +1,3 @@
+#!/Bin/bash
+find . -type f -name '*.js' -exec rm -f {} \;
+
