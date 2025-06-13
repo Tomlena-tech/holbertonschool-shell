@@ -1,24 +1,6 @@
-Javascript 
-Perl 
-mais
-PHP  
-PHP  
-ASP
-R
-Go
+julien@ubuntu:/tmp/0x02$ cat list 
 C#
-C++
-R
-Perl
-Javascript
-Javascript
-Python
-Javascript
-Javascript
-Javascript
-Java
-Java
-Python
+C
 Javascript
 Perl
 PHP
@@ -40,3 +22,11 @@ Java
 Java
 Python
 Javascript
+Javascript
+Javascript
+ASP
+julien@ubuntu:/tmp/0x02$ cat list | ./13-unique 
+C
+C++
+Go
+julien@ubuntu:/tmp/0x02$ 
