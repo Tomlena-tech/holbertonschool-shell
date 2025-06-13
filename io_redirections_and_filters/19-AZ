@@ -1,0 +1,2 @@
+#!/bin/bash
+echo liste | tr Ac Ze
