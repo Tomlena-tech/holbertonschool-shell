@@ -1,2 +1,2 @@
 #!/bin/bash
-echo liste | tr Ac Ze
+tr A Z | c e
