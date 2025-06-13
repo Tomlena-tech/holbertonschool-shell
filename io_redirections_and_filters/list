@@ -1,4 +1,4 @@
-julien@ubuntu:/tmp/0x02$ cat list 
+ 
 C#
 C
 Javascript
@@ -25,8 +25,3 @@ Javascript
 Javascript
 Javascript
 ASP
-julien@ubuntu:/tmp/0x02$ cat list | ./13-unique 
-C
-C++
-Go
-julien@ubuntu:/tmp/0x02$ 
