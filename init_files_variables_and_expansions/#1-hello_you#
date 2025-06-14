@@ -1,0 +1,2 @@
+ema#!/bin/bash
+echo "hello" $USER 
