@@ -1,0 +1,5 @@
+#!/bin/bash
+export POWER=42784
+export DIVIDE=32
+result=$((POWER / DIVIDE))
+echo "$result"
