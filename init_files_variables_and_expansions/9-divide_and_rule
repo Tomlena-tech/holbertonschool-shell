@@ -1,3 +1,2 @@
 #!/bin/bash
-POWER=42784 DIVIDE=32 bash -c '[ -z "$POWER" ] || [ -z "$DIVIDE" ] || [ "$DIVIDE" -eq 0 ] && echo "Erreur" || echo $(( POWER / DIVIDE ))'
-
+let POWER=42784 DIVIDE=32 result=POWER/DIVIDE |echo $result
