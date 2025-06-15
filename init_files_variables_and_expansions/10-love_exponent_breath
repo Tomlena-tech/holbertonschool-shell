@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $((BREATH / LOVE))\n
+echo $((BREATH / LOVE))\n
